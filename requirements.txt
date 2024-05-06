@@ -60,6 +60,6 @@ tomli==2.0.1
 tomlkit==0.12.1
 typing_extensions==4.7.1
 urllib3==1.26.16
-Werkzeug==2.3.6
+Werkzeug==3.0.3
 wrapt==1.15.0
 WTForms==3.0.1
